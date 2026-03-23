@@ -1,0 +1,6 @@
+@ticket_system_backend_HostAddress = http://localhost:5108
+
+GET {{ticket_system_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
